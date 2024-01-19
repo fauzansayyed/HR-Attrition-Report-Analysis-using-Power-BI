@@ -17,7 +17,8 @@ The dataset includes information on employee attrition within the organization. 
 
 ### Power BI Dashboard
 To facilitate a comprehensive understanding, a dynamic dashboard was created in Power BI. It addresses the questions above, offering an intuitive visualization of factors contributing to employee attrition.
-![Uploading Screenshot (1079).png…]()
+
+![Screenshot (1079)](https://github.com/fauzansayyed/HR-Attrition-Report-Analysis-using-Power-BI/assets/127302322/0867b1bc-ca68-4b2a-b597-527561fa7a36)
 
 ![Power BI Dashboard](https://github.com/your-username/your-repository/assets/path/to/your/image.png)
 
