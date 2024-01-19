@@ -1,11 +1,17 @@
 # HR Attrition Report Analysis using Power BI
 
-Welcome to the HR Attrition Report Analysis using Power BI project! The primary aim of this project is to analyze employee attrition within an organization based on a comprehensive dataset.
+Welcome to the HR Attrition Report Analysis using Power BI project! This project aims to analyze employee attrition within an organization based on a comprehensive dataset.
 
 ## Data Descriptions
 
 ### Employee Attrition Dataset
 The dataset includes information on employee attrition within the organization. It provides details about each employee, their job roles, satisfaction scores, performance metrics, and reasons for attrition.
+
+## Technologies Used
+
+- Power BI
+- DAX (Data Analysis Expressions)
+- Power BI Query
 
 ## Visualization using Power BI
 
@@ -20,7 +26,6 @@ To facilitate a comprehensive understanding, a dynamic dashboard was created in 
 
 ![Screenshot (1079)](https://github.com/fauzansayyed/HR-Attrition-Report-Analysis-using-Power-BI/assets/127302322/0867b1bc-ca68-4b2a-b597-527561fa7a36)
 
-![Power BI Dashboard](https://github.com/your-username/your-repository/assets/path/to/your/image.png)
 
 ## Result
 
